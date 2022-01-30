@@ -1,0 +1,7 @@
+private static final long java.util.ArrayList.serialVersionUID
+private static final int java.util.ArrayList.DEFAULT_CAPACITY
+private static final java.lang.Object[] java.util.ArrayList.EMPTY_ELEMENTDATA
+private static final java.lang.Object[] java.util.ArrayList.DEFAULTCAPACITY_EMPTY_ELEMENTDATA
+transient java.lang.Object[] java.util.ArrayList.elementData
+private int java.util.ArrayList.size
+private static final int java.util.ArrayList.MAX_ARRAY_SIZE
